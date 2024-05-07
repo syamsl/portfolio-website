@@ -39,7 +39,7 @@ export default function Project({
                     </ul>
                 </div>
 
-                <Image src={imageUrl} alt={title} quality={95} className='absolute sm:block top-8 -right-40 w-[28.25rem] rounded-t-lg shadow-2xl group-hover:scale-[1.04] group-hover:-translate-x-3 group-hover:translate-y-3 group-hover:-rotate-2 
+                <Image src={imageUrl} alt={title} quality={95} className='absolute invisible sm:visible top-8 -right-40 w-[28.25rem] rounded-t-lg shadow-2xl group-hover:scale-[1.04] group-hover:-translate-x-3 group-hover:translate-y-3 group-hover:-rotate-2 
             group-even:group-hover:translate-x-3 group-even:group-hover:translate-y-3 group-even:group-hover:rotate-2
             group-even:right-[initial] group-even:-left-40' />
             </section>
