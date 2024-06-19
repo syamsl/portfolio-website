@@ -37,7 +37,7 @@ export default function Intro() {
                 animate={{ opacity: 1, y: 0 }}
             >
                 <span className="font-bold">Hello, I&apos;m Syam, </span>
-                <span className="font-bold">a self-taught full-stack developer.</span> I find joy in creating websites, with a special focus on <span className="italic">frontend</span> using <span className="underline">React</span>. I love the process how code can bring ideas to life.
+                <span className="font-bold">a self-taught full-stack developer.</span> I find joy in creating websites, with a special focus on <span className="italic">full stack</span> using <span className="underline">React</span> and <span className="underline">Node</span>. I love the process how code can bring ideas to life.
             </motion.h1>
 
             <motion.div className='flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium'
